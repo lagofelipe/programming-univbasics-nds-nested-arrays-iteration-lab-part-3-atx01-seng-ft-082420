@@ -5,7 +5,7 @@ strings_reduction = " "
 row_index = 0
 
 while row_index < src.count do
-  
+
 
 
 
